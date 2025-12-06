@@ -1,4 +1,4 @@
-# 🐞 bug-tracer
+# 📉 lossscape
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](../../actions)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
