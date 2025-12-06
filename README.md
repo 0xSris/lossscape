@@ -95,11 +95,11 @@ Maintained by [@0xSris](https://github.com/0xSris) and contributors.
 We welcome PRs and issues! Please review [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) for the guidelines.
 
 
-
+```
 ## 🤩 Why This Stands Out
-Professional ML visualization: Shows complex optimization concepts clearly.
-Interactive & shareable: Can be used to demonstrate ML intuition in presentations or interviews.
-Portfolio-ready: Demonstrates coding, testing, and visualization skills in one project.
-
+- Professional ML visualization: Shows complex optimization concepts clearly.
+- Interactive & shareable: Can be used to demonstrate ML intuition in presentations or interviews.
+- Portfolio-ready: Demonstrates coding, testing, and visualization skills in one project.
+```
 
 _See [LICENSE](LICENSE) for license info. For more help, open an [issue](../../issues)._
