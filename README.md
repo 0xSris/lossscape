@@ -52,7 +52,7 @@ LossScape/
 Clone and launch the development server:
 
 ```bash
-git clone https://github.com/0xSris/bug-tracer.git
+git clone https://github.com/0xSris/lossscape.git
 cd lossscape
 python -m venv .venv
 .venv\Scripts\activate
